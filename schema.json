@@ -1,0 +1,216 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "dateCreated": "2026-05-25",
+  "dateModified": "2026-05-26",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "https://hans-christopher.vercel.app/#person",
+    "name": "Hans Christopher",
+    "alternateName": ["Hans Christopher Brofeldt", "Hans Brofeldt"],
+    "birthDate": "1982-02-21",
+    "birthPlace": {
+      "@type": "Place",
+      "name": "Sacramento, California",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sacramento",
+        "addressRegion": "CA",
+        "addressCountry": "US"
+      }
+    },
+    "height": "6'3\" (1.91 m)",
+    "gender": "Male",
+    "nationality": "American",
+    "jobTitle": "Actor",
+    "description": "American actor known for raw intensity and unspoken vulnerability across dramatic film and television roles. Credits span prestige drama, crime thriller, indie film, and interactive media. Over 40 credits since 2012.",
+    "disambiguatingDescription": "American actor (born 1982), known for Animal Kingdom (TNT), The Walking Dead (AMC), Dreamland (Tribeca 2019), Waco (Paramount), Reeling (SXSW 2025, Werner Herzog). IMDb nm5080880. Not to be confused with Hans Christopher (nm1111533) of Venezuelan telenovelas.",
+    "url": "https://hans-christopher.vercel.app",
+    "image": "https://hans-christopher.vercel.app/images/hero.jpg",
+    "sameAs": [
+      "https://www.imdb.com/name/nm5080880/",
+      "https://en.wikipedia.org/wiki/Hans_Christopher",
+      "https://www.facebook.com/thehanschristopher5"
+    ],
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "California State University, Long Beach"
+    },
+    "knowsAbout": ["acting", "dramatic performance", "film", "television", "poetry", "activism"],
+    "award": "Best Supporting Actor nomination, FilmQuest Cthulhu Awards (Progeny, 2019)",
+    "hasOccupation": {
+      "@type": "Occupation",
+      "name": "Actor",
+      "occupationalCategory": "27-2011.00",
+      "skills": "Dramatic lead performance, physical roles, emotional range, long takes, period drama, crime thriller, character-driven work, interactive media performance"
+    },
+    "performerIn": [
+      {
+        "@type": "Event",
+        "name": "2025 South by Southwest Film Festival",
+        "startDate": "2025-03-07",
+        "location": { "@type": "Place", "name": "Austin, Texas" }
+      }
+    ]
+  },
+  "hasPart": [
+    {
+      "@type": "Movie",
+      "name": "Reeling",
+      "datePublished": "2025",
+      "description": "Drama directed by Yana Alliata, executive produced by Werner Herzog. World premiered as one of 8 narrative competition selections at the 2025 South by Southwest Film Festival.",
+      "director": { "@type": "Person", "name": "Yana Alliata" },
+      "producer": { "@type": "Person", "name": "Werner Herzog", "sameAs": "https://en.wikipedia.org/wiki/Werner_Herzog" },
+      "actor": {
+        "@type": "PerformanceRole",
+        "actor": { "@type": "Person", "name": "Hans Christopher" },
+        "characterName": "John Brown",
+        "roleName": "Lead"
+      }
+    },
+    {
+      "@type": "Movie",
+      "name": "He Bled Neon",
+      "datePublished": "2026",
+      "description": "Action crime-thriller directed by Drew Kirsch.",
+      "director": { "@type": "Person", "name": "Drew Kirsch" },
+      "actor": [
+        { "@type": "Person", "name": "Hans Christopher" },
+        { "@type": "Person", "name": "Joe Cole", "sameAs": "https://en.wikipedia.org/wiki/Joe_Cole_(actor)" },
+        { "@type": "Person", "name": "Marshawn Lynch", "sameAs": "https://en.wikipedia.org/wiki/Marshawn_Lynch" }
+      ]
+    },
+    {
+      "@type": "TVSeries",
+      "name": "Animal Kingdom",
+      "numberOfEpisodes": 6,
+      "datePublished": "2022",
+      "productionCompany": { "@type": "Organization", "name": "TNT" },
+      "actor": {
+        "@type": "PerformanceRole",
+        "actor": { "@type": "Person", "name": "Hans Christopher" },
+        "characterName": "Auge"
+      }
+    },
+    {
+      "@type": "TVSeries",
+      "name": "The Walking Dead",
+      "datePublished": "2021",
+      "productionCompany": { "@type": "Organization", "name": "AMC" },
+      "actor": {
+        "@type": "PerformanceRole",
+        "actor": { "@type": "Person", "name": "Hans Christopher" },
+        "characterName": "Nicholls"
+      }
+    },
+    {
+      "@type": "TVSeries",
+      "name": "The Curse",
+      "datePublished": "2023",
+      "productionCompany": { "@type": "Organization", "name": "A24 / Paramount+" },
+      "creator": [
+        { "@type": "Person", "name": "Nathan Fielder", "sameAs": "https://en.wikipedia.org/wiki/Nathan_Fielder" },
+        { "@type": "Person", "name": "Benny Safdie", "sameAs": "https://en.wikipedia.org/wiki/Benny_Safdie" }
+      ],
+      "actor": [
+        {
+          "@type": "PerformanceRole",
+          "actor": { "@type": "Person", "name": "Hans Christopher" },
+          "characterName": "David Burn"
+        },
+        { "@type": "Person", "name": "Emma Stone", "sameAs": "https://en.wikipedia.org/wiki/Emma_Stone" }
+      ]
+    },
+    {
+      "@type": "Movie",
+      "name": "Dreamland",
+      "datePublished": "2019",
+      "description": "Premiered at the Tribeca Film Festival. Produced by LuckyChap Entertainment.",
+      "productionCompany": { "@type": "Organization", "name": "LuckyChap Entertainment" },
+      "actor": [
+        {
+          "@type": "PerformanceRole",
+          "actor": { "@type": "Person", "name": "Hans Christopher" },
+          "characterName": "John Baker"
+        },
+        { "@type": "Person", "name": "Margot Robbie", "sameAs": "https://en.wikipedia.org/wiki/Margot_Robbie" },
+        { "@type": "Person", "name": "Travis Fimmel", "sameAs": "https://en.wikipedia.org/wiki/Travis_Fimmel" }
+      ]
+    },
+    {
+      "@type": "TVSeries",
+      "name": "Waco",
+      "datePublished": "2018",
+      "productionCompany": { "@type": "Organization", "name": "Paramount Network" },
+      "actor": [
+        {
+          "@type": "PerformanceRole",
+          "actor": { "@type": "Person", "name": "Hans Christopher" },
+          "characterName": "Randy Weaver"
+        },
+        { "@type": "Person", "name": "Michael Shannon", "sameAs": "https://en.wikipedia.org/wiki/Michael_Shannon" },
+        { "@type": "Person", "name": "Taylor Kitsch", "sameAs": "https://en.wikipedia.org/wiki/Taylor_Kitsch" }
+      ]
+    },
+    {
+      "@type": "VideoGame",
+      "name": "Immortality",
+      "datePublished": "2022",
+      "description": "BAFTA Award-winning interactive film by Sam Barlow. Premiered at Tribeca Film Festival.",
+      "award": "BAFTA Award",
+      "director": { "@type": "Person", "name": "Sam Barlow", "sameAs": "https://en.wikipedia.org/wiki/Sam_Barlow_(game_designer)" },
+      "actor": {
+        "@type": "PerformanceRole",
+        "actor": { "@type": "Person", "name": "Hans Christopher" },
+        "characterName": "John Durick"
+      }
+    },
+    {
+      "@type": "TVSeries",
+      "name": "American Gigolo",
+      "datePublished": "2022",
+      "productionCompany": { "@type": "Organization", "name": "Showtime" },
+      "actor": {
+        "@type": "PerformanceRole",
+        "actor": { "@type": "Person", "name": "Hans Christopher" },
+        "characterName": "Andrew"
+      }
+    },
+    {
+      "@type": "Movie",
+      "name": "Marmalade",
+      "datePublished": "2024",
+      "actor": [
+        {
+          "@type": "PerformanceRole",
+          "actor": { "@type": "Person", "name": "Hans Christopher" },
+          "characterName": "Officer Cambio"
+        },
+        { "@type": "Person", "name": "Joe Keery" },
+        { "@type": "Person", "name": "Aldis Hodge" }
+      ]
+    },
+    {
+      "@type": "TVSeries",
+      "name": "FBI: Most Wanted",
+      "datePublished": "2024",
+      "productionCompany": { "@type": "Organization", "name": "CBS" },
+      "actor": {
+        "@type": "PerformanceRole",
+        "actor": { "@type": "Person", "name": "Hans Christopher" },
+        "characterName": "Aaron Quallich"
+      }
+    },
+    {
+      "@type": "TVSeries",
+      "name": "The Rookie",
+      "datePublished": "2026",
+      "productionCompany": { "@type": "Organization", "name": "ABC" },
+      "actor": {
+        "@type": "PerformanceRole",
+        "actor": { "@type": "Person", "name": "Hans Christopher" },
+        "characterName": "Isak"
+      }
+    }
+  ]
+}
